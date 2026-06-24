@@ -14,7 +14,6 @@ A powerful, 100% client-side, browser-based PDF utility built with modern web te
 * **Drag-and-Drop Reordering:** Rearrange page sequences visually.
 * **Page Deletion:** Remove unnecessary pages with a single click.
 * **Document Merging:** Combine multiple PDF files into one cohesive document.
-* **Page Rotation:** Fix orientation issues instantly (90° / 180° / 270°).
 
 ### ✍️ Visual Overlays & Markup
 * **Rich Text Overlays:** Place new text blocks anywhere on the page with adjustable sizing.
