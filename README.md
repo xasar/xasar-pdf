@@ -5,7 +5,7 @@ A powerful, 100% client-side, browser-based PDF utility built with modern web te
 > ⚠️ **Note on Editing:** This tool is a visual layout modifier and builder. It allows you to append, rearrange, and overlay new elements (text, images, shapes). It **does not** edit or rewrite existing structural PDF text.
 
 
-🚀 **Live Demo:** [xasar.github.io/pdf](https://github.io)
+🚀 **Live Demo:** [xasar.github.io/pdf](https://xasar.github.io/pdf)
 ---
 
 ## ✨ Features
